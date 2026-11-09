@@ -1,0 +1,4 @@
+schema=1
+build=3899
+version=1.1.0
+release_url=https://github.com/SEU_USUARIO/SEU_REPOSITORIO/releases/tag/v1.1.0
